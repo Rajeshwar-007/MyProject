@@ -1,1 +1,1 @@
-*# MyProjectgt
+# MyProjectgt
